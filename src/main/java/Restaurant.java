@@ -71,4 +71,9 @@ public class Restaurant {
         return name;
     }
 
+    public int getOrderTotal(String... items) {
+        //To be implemented
+        return 0;
+    }
+
 }
